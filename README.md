@@ -4,7 +4,7 @@
 
 
 # Laravel 9 Multi Auth System laravel/breeze
-Build Laravel 9 Multi Auth System using laravel/breeze package
+Build Laravel 9 Multi Auth System using laravel/breeze packages
 
 
 ## Login page
