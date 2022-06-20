@@ -4,7 +4,7 @@
 
 
 # Laravel 9 Multi Auth System laravel/breeze
-Example of Laravel 9 multi authentication laravel breeze with MySQL for Users and Admins
+Example of Laravel 9 multi authentication laravel breeze with MySQL for Users and Admin
 
 
 ## Login page
